@@ -7,7 +7,7 @@
 -	Calculating the area of rectangle using different method program 
 
 
-- code to determine if a given number is a palindrome
+- code to determine if a given number is a palindrome.
 
 
 
