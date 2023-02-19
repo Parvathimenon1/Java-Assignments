@@ -10,6 +10,12 @@
 - code to determine if a given number is a palindrome.
 
 
+- code to count the number of characters in a string and to calculate its length
+
+
+- code to evaluate the sum of natural numbers
+
+
 
 
 
