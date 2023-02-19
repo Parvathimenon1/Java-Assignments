@@ -1,4 +1,4 @@
-#JAVA ASSIGNMENTS
+# JAVA ASSIGNMENTS
 
 **The Java assignments present here primarily consist of numerous Java applications that were written using different Java principles.**
 
